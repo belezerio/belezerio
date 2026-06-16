@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi there 👋 I'm Yash Kumar<br><br>🚀 Passionate Full Stack Developer focused on building scalable and modern web applications.<br>💻 Skilled in React, ASP.NET Core, C#, MSSQL, Node.js, and MongoDB.<br>🌱 Currently exploring advanced React architecture, backend optimization, and Web3 technologies.<br>🏆 Enthusiastic about solving problems, participating in hackathons, and creating impactful projects.<br>📍 Based in India.
+Hi there 👋 I'm Yash Kumar<br><br>🚀 Passionate Full Stack Developer focused on building scalable and modern web applications.<br>💻 Skilled in React, ASP.NET Core, Java, C#, MSSQL, Node.js, and MongoDB.<br>🌱 Currently exploring advanced React architecture, backend optimization, and Web3 technologies.<br>🏆 Enthusiastic about solving problems, participating in hackathons, and creating impactful projects.<br>📍 Based in India.
 
 
 ## 🌐 Socials:
